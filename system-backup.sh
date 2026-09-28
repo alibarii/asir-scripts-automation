@@ -2,7 +2,7 @@
 # ==============================================================================
 # Script Name: system-backup.sh
 # Description: Compresses specified directories into a timestamped archive.
-# Author: Alex (ASIR Student)
+# Author: Ali (ASIR Student)
 # ==============================================================================
 
 # Variables
